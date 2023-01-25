@@ -1,7 +1,7 @@
 Water jug problem,
 BFS,
 DFS,
-CRIPTO ALGORITHM,
+crypto ALGORITHM,
 TIC TAC TOE,
 8 PUZZLE,
 8 QUEENS,
